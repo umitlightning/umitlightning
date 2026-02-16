@@ -1,6 +1,6 @@
 # 👋 Introducing Myself
 
-![header](file:///Users/umitlightning/Desktop/github.jpg)
+![header]((https://imgur.com/a/IJz3ytr))
 
 Hello, I'm Umit. A supply chain professional with a Master's in Data Analytics, experienced in turning operational data into actionable insights. I've helped drive export revenue from 20% to 60% of total production using data-driven strategies.
 
