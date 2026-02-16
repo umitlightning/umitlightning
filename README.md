@@ -11,15 +11,6 @@ My work focuses on analyzing supply chain data with Python and SQL, building das
 - 4+ years of international trade & export operations experience
 - Database management with MySQL & PostgreSQL
 
-
-## Tools
-
-- Language: Python, SQL 
-- Database: MySQL, PostgreSQL 
-- Visualization: Tableau, Power BI
-- Other: Advanced Excel, International Trade Compliance 
-
-
 ## Certifications
 
 - Google Advanced Data Analytics Professional Certificate
