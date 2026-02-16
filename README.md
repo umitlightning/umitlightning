@@ -1,6 +1,6 @@
 # 👋 Introducing Myself
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=2B3A4E&height=200&section=header&text=Umit%20Lightning&fontSize=40&fontColor=ffffff&desc=Supply%20Chain%20Analyst%20|%20Data%20Analyst&descSize=18&descAlignY=65&fontAlignY=40)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=2B3A4E&height=200&section=header&text=Umit%20Lightning&fontSize=40&fontColor=ffffff&desc=Supply%20Chain%20Analyst%20|%20Data%20Analyst&descSize=18&descAlignY=65&fontAlignY=40](https://raw.githubusercontent.com/umitlightning/umitlightning/refs/heads/main/github.jpg))
 
 Hello, I'm Umit. A supply chain professional with a Master's in Data Analytics, experienced in turning operational data into actionable insights. I've helped drive export revenue from 20% to 60% of total production using data-driven strategies.
 
