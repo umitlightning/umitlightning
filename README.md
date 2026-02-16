@@ -11,8 +11,6 @@ Hello, I'm Umit. A supply chain professional with a Master's in Data Analytics, 
 
 ## Tools
 
-Category 
-
 - Language: Python, SQL 
 - Database: MySQL, PostgreSQL 
 - Visualization: Tableau, Power BI
