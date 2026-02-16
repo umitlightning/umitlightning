@@ -9,24 +9,18 @@ Hello, I'm Umit. A supply chain professional with a Master's in Data Analytics, 
 - Database management with MySQL & PostgreSQL
 
 
-## 🛠️ Tools
+## Tools
 
-| Category | Tools |
-|----------|-------|
-Language** | Python, SQL 
-Database** | MySQL, PostgreSQL 
-Visualization** | Tableau, Power BI 
-Systems** | ERP (Netsis 3) 
-Other** | Advanced Excel, International Trade Compliance 
+Category 
+
+Language: Python, SQL 
+Database: MySQL, PostgreSQL 
+Visualization: Tableau, Power BI 
+Systems: ERP (Netsis 3) 
+Other: Advanced Excel, International Trade Compliance 
 
 
-## 📜 Certifications
+## Certifications
 
 - Google Advanced Data Analytics Professional Certificate
 - IBM Data Analyst Professional Certificate
-
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umitlightning)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umitlightning93@gmail.com)
