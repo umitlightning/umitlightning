@@ -13,11 +13,10 @@ Hello, I'm Umit. A supply chain professional with a Master's in Data Analytics, 
 
 Category 
 
-Language: Python, SQL 
-Database: MySQL, PostgreSQL 
-Visualization: Tableau, Power BI 
-Systems: ERP (Netsis 3) 
-Other: Advanced Excel, International Trade Compliance 
+- Language: Python, SQL 
+- Database: MySQL, PostgreSQL 
+- Visualization: Tableau, Power BI
+- Other: Advanced Excel, International Trade Compliance 
 
 
 ## Certifications
